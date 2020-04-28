@@ -9,7 +9,6 @@ Through this challenge, I was able to:
 
 ## Frameworks / Libs
 - axios
-- UUIDv4
 
 ## Some Concepts
 - useEffect
